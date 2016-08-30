@@ -1,0 +1,20 @@
+{
+  "name": "ag-password-strength-angularjs",
+  "authors": [
+    "tiago agenor <tiago.agenor@gmail.com>"
+  ],
+  "description": "Checks password strength on AngularJS — Edit",
+  "main": [
+  	"ag-password-strength.js"
+  ],
+  "keywords": [
+    "check-password",
+    "force",
+    "password",
+    "check",
+    "force",
+    "password"
+  ],
+  "license": "GPL",
+  "homepage": "https://github.com/tiagoagenor/ag-checks-password-strength-angularjs"
+}
